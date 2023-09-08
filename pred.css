@@ -1,0 +1,19 @@
+#dataset{
+    margin-top: 3%;
+    font-size: 20px;
+    text-align: center;
+}
+
+#datalink{
+    text-decoration: solid;
+    color: blue;
+}
+
+#datalink:hover{
+    text-decoration: underline;
+}
+
+#predictedtext{
+    margin-top: 2%;
+    text-align: center;
+}
